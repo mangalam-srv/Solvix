@@ -1,8 +1,8 @@
-Solvix
+# Solvix
 
 Solvix is an AI-powered Chrome Extension for LeetCode that combines coding practice, submission tracking, AI assistance, progress analytics, and GitHub solution synchronization in one workflow.
 
-1. Features
+# 1. Features
 
 Track LeetCode submissions, attempts, streaks, and progress.
 
@@ -20,7 +20,7 @@ Find alternative resources for supported problems.
 
 
 
-2. Getting Started
+# 2. Getting Started
 
 2.1 Install Solvix
 
@@ -80,7 +80,7 @@ If GitHub is connected, accepted solutions can be synchronized with your reposit
 
 
 
-3. Documentation
+# 3. Documentation
 
 For complete technical documentation covering the architecture, project structure, application flow, backend, database, AI integration, authentication, components, APIs, debugging, and development workflow, see:
 
@@ -88,7 +88,7 @@ Read the Complete Documentation
 
 
 
-4. Developer Setup
+# 4. Developer Setup
 
 4.1 Requirements
 
@@ -116,7 +116,7 @@ For Chrome extension development, open chrome://extensions, enable Developer mod
 
 
 
-5. Links
+# 5. Links
 
 Website: https://solvix.hemant28.me/
 
