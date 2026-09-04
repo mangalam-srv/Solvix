@@ -1,6 +1,6 @@
-# Solvix (LeetBuddy) Master Project Documentation & Learning Guide
+# Solvix  Master Project Documentation & Learning Guide
 
-Welcome to the Master README for **Solvix** (also branded as **LeetBuddy**). This document serves as a comprehensive, technically rigorous, and beginner-friendly learning guide for the entire codebase. It is designed to allow any developer or AI agent to understand, run, debug, and extend this project from scratch.
+Welcome to the Master README for **Solvix** . This document serves as a comprehensive, technically rigorous, and beginner-friendly learning guide for the entire codebase. It is designed to allow any developer or AI agent to understand, run, debug, and extend this project from scratch.
 
 ---
 
@@ -40,7 +40,7 @@ Welcome to the Master README for **Solvix** (also branded as **LeetBuddy**). Thi
 
 ## 1. Project Overview
 
-### What is Solvix (LeetBuddy)?
+### What is Solvix ?
 **Solvix** is an AI-powered coding assistant and practice tracker designed specifically for LeetCode. It exists to solve the fragmentation problem in competitive programming prep: developers typically have to jump between LeetCode (solving problems), Excel or Notion (tracking lists like Blind 75/NeetCode 150), external explanation resources (YouTube/GeeksforGeeks), separate code repos (for pushing solutions to GitHub), and ChatGPT (for debugging or explanations).
 
 Solvix consolidates all of these resources directly into a Chrome Extension side panel and popup overlay, linked to a custom Node.js/Express backend, MongoDB database, and LLMs (Google Gemini/Groq).
